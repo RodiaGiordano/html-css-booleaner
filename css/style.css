@@ -1,0 +1,17 @@
+/* General */
+
+
+
+/*header */
+
+header{
+    background-image: url("../img/pattern.png");
+    background-color: aqua;
+    background-size: 30%;
+}
+
+#logo{
+    height: 3rem;
+    padding: 30px 25px 0 5px;
+}
+
