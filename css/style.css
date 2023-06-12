@@ -2,12 +2,13 @@
 
 
 
+
 /*header */
 
 header{
     background-image: url("../img/pattern.png");
     background-color: aqua;
-    background-size: 30%;
+    background-size: 330px;
 }
 
 #logo{
@@ -15,3 +16,32 @@ header{
     padding: 30px 25px 0 5px;
 }
 
+/* inizio main */
+
+#scritto-da{
+    color: grey;
+}
+
+#autore-articolo{
+    color: blue;
+}
+
+#data-articolo{
+    font-size: x-small;
+    margin-top: 3px;
+}
+
+
+/* immagini Articolo */
+
+h1{
+    margin-bottom: 5px;
+}
+
+.immagini-tim{
+    margin-top: 30px;
+}
+
+.didascalia{
+    font-size: x-small;
+}
