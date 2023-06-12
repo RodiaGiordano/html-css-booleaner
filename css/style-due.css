@@ -1,0 +1,140 @@
+/* main */
+
+main, footer{
+    max-width: 75%;
+    margin:auto;
+}
+
+.immagini-tim img{
+    max-width: 49%;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.container{
+    margin: 30px 0;
+}
+
+
+/*header */
+
+header{
+    background-image: url("../img/pattern.png");
+    background-color: aqua;
+    background-size: 330px;
+}
+
+#logo{
+    height: 3rem;
+    padding: 30px 25px 0 5px;
+}
+
+/* inizio main */
+
+#scritto-da{
+    color: grey;
+}
+
+#autore-articolo{
+    color: blue;
+}
+
+.articolo {
+    color: gray;
+
+}
+
+.data.articolo{
+    font-size: x-small;
+    margin-top: 3px;
+}
+
+
+/* immagini Articolo */
+
+h1{
+    margin-bottom: 5px;
+}
+
+.immagini-tim{
+    margin-top: 30px;
+}
+
+.didascalia{
+    font-size: x-small;
+}
+
+/* paragrafi */
+
+.evidenziato{
+    background-color: yellow;
+}
+
+/* tabella */
+
+ul{
+    padding-left: 15px;
+}
+
+table{
+    border-spacing: 0px;
+    text-align: left;
+    
+
+}
+
+thead{
+    background-color: aqua;
+}
+
+.un-quarto{
+    width: 25%;
+}
+
+.due.quarti{
+    width: 50%;
+}
+
+.riga-evidenziata{
+    background-color: aquamarine;
+}
+
+/* footer */
+
+footer{
+    margin-bottom: 60px;
+
+}
+
+#testo-footer{
+    margin-top: 70px;
+    color: gray;
+    
+}
+
+#foto-uno{
+    background-image: url("../img/monitor.jpg");
+    height: 200px;
+    max-width: 300px;
+    background-size: contain;
+    color: white;
+    padding: 20px;
+    
+}
+
+#foto-due{
+    background-image: url("../img/graph.jpg");
+    height: 200px;
+    max-width: 300px;
+    background-size: contain;
+    color: white;
+    padding: 20px;
+       
+}
+
+footer div{
+    margin-top: 20px;
+
+}
