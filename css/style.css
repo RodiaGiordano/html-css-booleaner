@@ -86,3 +86,35 @@ thead{
 .riga-evidenziata{
     background-color: aquamarine;
 }
+
+/* footer */
+#testo-footer{
+    margin-top: 70px;
+    color: gray;
+    
+}
+
+#foto-uno{
+    background-image: url("../img/monitor.jpg");
+    height: 200px;
+    max-width: 300px;
+    background-size: contain;
+    color: white;
+    padding: 20px;
+    
+}
+
+#foto-due{
+    background-image: url("../img/graph.jpg");
+    height: 200px;
+    max-width: 300px;
+    background-size: contain;
+    color: white;
+    padding: 20px;
+       
+}
+
+footer div{
+    margin-top: 20px;
+
+}
