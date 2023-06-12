@@ -2,7 +2,10 @@
 
 body{
     font-family: 'Roboto', sans-serif;
-    
+}
+
+.container{
+    margin: 30px 0;
 }
 
 
@@ -47,4 +50,39 @@ h1{
 
 .didascalia{
     font-size: x-small;
+}
+
+/* paragrafi */
+
+.evidenziato{
+    background-color: yellow;
+}
+
+/* tabella */
+
+ul{
+    padding-left: 15px;
+}
+
+table{
+    border-spacing: 0px;
+    text-align: left;
+    
+
+}
+
+thead{
+    background-color: aqua;
+}
+
+.un-quarto{
+    width: 25%;
+}
+
+.due.quarti{
+    width: 50%;
+}
+
+.riga-evidenziata{
+    background-color: aquamarine;
 }
