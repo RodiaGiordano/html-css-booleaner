@@ -32,7 +32,12 @@ header{
     color: blue;
 }
 
-#data-articolo{
+.articolo {
+    color: gray;
+
+}
+
+.data.articolo{
     font-size: x-small;
     margin-top: 3px;
 }
