@@ -93,6 +93,12 @@ thead{
 }
 
 /* footer */
+
+footer{
+    margin-bottom: 60px;
+
+}
+
 #testo-footer{
     margin-top: 70px;
     color: gray;
